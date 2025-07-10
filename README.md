@@ -57,12 +57,11 @@
 Análisis de datos de partidos internacionales de fútbol para entender tendencias históricas, resultados, rendimiento de equipos y patrones de anotación utilizando conjuntos de datos reales.
 
 🧰 **Herramientas:**  
-Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+Python, Pandas, Matplotlib, Seaborn, Google Colab 
 
 🎯 **Objetivo:**  
 Extraer insights relevantes sobre el desempeño de equipos y jugadores, y visualizaciones para apoyar la interpretación de datos deportivos.
 
----
 
 ¡Gracias por visitar mi repositorio!  
 Si quieres contactarme, usa las redes arriba.
